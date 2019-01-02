@@ -13,6 +13,7 @@
     "react/no-array-index-key": "off",
     "no-undef": "off",
     "import/prefer-default-export": "off",
-    "react/forbid-prop-types": "off"
+    "react/forbid-prop-types": "off",
+    "no-param-reassign": "off"
   }
 }
